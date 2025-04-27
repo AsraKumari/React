@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react-prac",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsraKumari/First_React_App.git"
+  },
+  "author": "Asra Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsraKumari/First_React_App/issues"
+  },
+  "homepage": "https://github.com/AsraKumari/First_React_App#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
