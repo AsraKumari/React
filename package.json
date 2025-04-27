@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AsraKumari/First_React_App.git"
+    "url": "git+https://github.com/AsraKumari/React.git"
   },
   "author": "Asra Kumari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AsraKumari/First_React_App/issues"
+    "url": "https://github.com/AsraKumari/React/issues"
   },
-  "homepage": "https://github.com/AsraKumari/First_React_App#readme",
+  "homepage": "https://github.com/AsraKumari/React",
   "devDependencies": {
     "parcel": "^2.14.4"
   }
