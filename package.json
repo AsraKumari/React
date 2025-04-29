@@ -2,7 +2,7 @@
   "name": "namaste-react-prac",
   "version": "1.0.0",
   "description": "learning react",
-  "main": "App.js",
+  
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/AsraKumari/React",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
